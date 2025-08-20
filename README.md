@@ -1,4 +1,4 @@
-# Catálogo de Libros - Gianluca Pasquinelli
+# Catálogo de Libros 
 
 ## Descripción
 Aplicación web desarrollada en **PHP Orientado a Objetos** utilizando el patrón **MVC** y conexión a base de datos con **PDO**.
