@@ -1,5 +1,7 @@
 # Catálogo de Libros 
 
+[](Grabación de pantalla 2025-08-20 140357.mp4)
+
 ## Descripción
 Aplicación web desarrollada en **PHP Orientado a Objetos** utilizando el patrón **MVC** y conexión a base de datos con **PDO**.
 El sistema permite gestionar libros, autores y usuarios con login de administrador.
