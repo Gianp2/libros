@@ -15,7 +15,7 @@ El sistema permite gestionar libros, autores y usuarios con login de administrad
 ## Video Demostrativo
 🎥 Grabación de pantalla mostrando todas las funcionalidades y la gestión de la base de datos:  
 
-[Ver video demostrativo](Grabacióndepantalla2025-08-20140357.mp4)
+[Ver video demostrativo](Video_Demostrarivo.mp4)
 
 
 ## Instalación
