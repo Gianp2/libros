@@ -12,12 +12,6 @@ El sistema permite gestionar libros, autores y usuarios con login de administrad
 - Conexión a base de datos vía PDO.  
 - Footer centrado para una mejor estética.  
 
-## Video Demostrativo
-🎥 Grabación de pantalla mostrando todas las funcionalidades y la gestión de la base de datos:  
-
-[Ver video demostrativo](Video_Demostrarivo.mp4)
-
-
 ## Instalación
 1. Importar el archivo SQL: `Pasquinelli_Gianluca.sql` en su gestor de base de datos.  
 2. Configurar credenciales en `config/config.php`.  
