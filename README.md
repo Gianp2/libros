@@ -28,6 +28,3 @@ El sistema permite gestionar libros, autores y usuarios con login de administrad
 - `app/Views` → Vistas HTML/PHP.  
 - `public/` → Archivos públicos y punto de entrada `index.php`.  
 - `config/` → Configuración de conexión a BD.  
-
-## Documentación adicional
-El proyecto incluye un **video demostrativo** mostrando las funcionalidades y el uso en base de datos.
