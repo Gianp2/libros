@@ -15,9 +15,8 @@ El sistema permite gestionar libros, autores y usuarios con login de administrad
 ## Video Demostrativo
 🎥 Grabación de pantalla mostrando todas las funcionalidades y la gestión de la base de datos:  
 
-[Ver video demostrativo](Grabación de pantalla 2025-08-20 140357.mp4)
+[Ver video demostrativo](Grabacióndepantalla2025-08-20140357.mp4)
 
-> Nota: Asegurate de subir el archivo `Grabación de pantalla 2025-08-20 140357.mp4` al repositorio para que el enlace funcione.
 
 ## Instalación
 1. Importar el archivo SQL: `Pasquinelli_Gianluca.sql` en su gestor de base de datos.  
